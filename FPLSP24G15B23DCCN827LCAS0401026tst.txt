@@ -1,0 +1,4 @@
+INTPUT:
+khai bao mot mang co 1trieu phan tu bang malloc
+khai bao mot mang co 1 trieu phan tu bang realoc
+OUTPUT:

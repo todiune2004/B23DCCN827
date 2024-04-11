@@ -1,0 +1,4 @@
+INPUT:
+25
+OUTPUT:
+25
